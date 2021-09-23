@@ -444,6 +444,10 @@ img {
   font-size: var(--h3-font-size);
 }
 
+.experience__title {
+  text-transform: uppercase;
+}
+
 .education__studies,
 .experience__company {
   font-size: var(--small-font-size);

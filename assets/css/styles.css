@@ -149,10 +149,16 @@ body.scale-cv {
   margin-top: 0.22rem;
 }
 
+.scale-cv .education__rounder-2 {
+  width: 11px;
+  height: 11px;
+  margin-top: -0.22rem;
+}
+
 .scale-cv .education__line,
 .scale-cv .experience__line {
   width: 1px;
-  height: 110%;
+  height: 103%;
   transform: translate(5px, 0);
 }
 
